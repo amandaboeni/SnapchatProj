@@ -15,5 +15,8 @@ pip install Dlib
 ## Usage
 Create a folder with the title "Snapchat" on your desktop to be able to save pictures created with this project. Add everything in the Snapchat folder provided to your desktop to also get the animal filters to work. Must have a camera attached to the machine that will be running the project.
 
+## Images
+
+
 ## Project status
 This will be continued to be worked on to work on fix the bugs and the inadequate code. Thank you!
