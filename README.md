@@ -4,7 +4,7 @@
 This was made simple and fast with the help of my partner for this course. A project for CS 390; Machine Perception that uses python and OpenCV to make Snapchat-like filters in an easy to use and understand GUI with tkinter.
 
 ## Installation
-Use anaconda navigator with python. Make sure to include all of the imported packages: Dlib (which includes CMake), Tkinter, and OpenCV. Dlib and Tkinter source code also found on Github
+Use anaconda navigator with python. Make sure to include all of the imported packages: Dlib (which includes CMake), Tkinter, and OpenCV. Dlib and Tkinter source code also found on Github. Also, make sure that you have the .dat file titled "shape_predictior_68_face_landmarks" onto your desktop; this is also found along with Dlib.
 
 ```bash
 pip install CMake
