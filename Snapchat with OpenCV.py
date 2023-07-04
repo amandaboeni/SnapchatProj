@@ -48,7 +48,7 @@ class App:
     def snapshot(self):
         #frame
         ret, frame = self.vid.get_frame()
-        path = "C:/Users/aboeni/Desktop/Snapchat"
+        path = "C:/Users/Public/Desktop/Snapchat"
  
         if ret:
            cv2.imwrite(os.path.join(path, "frame-" + time.strftime("%d-%m-%Y-%H-%M-%S") + ".jpg"), cv2.cvtColor(frame, cv2.COLOR_RGB2BGR))
